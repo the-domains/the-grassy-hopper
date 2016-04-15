@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[The Grassy Hopper]]></title>
         <description><![CDATA[The Grassy Hopper]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-grassy-hopper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 12:15:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 12:30:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-grassy-hopper/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined7ca0de66-e01e-4901-bf9f-42c9cb88e75a/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19099d61-5ab1-4256-8d6d-dff5d4a5093d.jpg">]]></description>
+            <link>https://thegrid.ai/the-grassy-hopper/7ca0de66-e01e-4901-bf9f-42c9cb88e75a/index.html</link>
             <guid isPermaLink="false">7ca0de66-e01e-4901-bf9f-42c9cb88e75a</guid>
-            <pubDate>Fri, 15 Apr 2016 12:15:34 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 12:30:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
